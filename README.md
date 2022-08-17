@@ -10,7 +10,7 @@ The application is also deployed to Heroku which can be accessed via the link be
 
 ## Deployed Application and GitHub Links
 
-[Deyployed App]()
+[Deyployed App](https://text-editor-nflanner.herokuapp.com/)
 
 [GitHub](https://github.com/nflanner/text-editor)
 
